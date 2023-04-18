@@ -1,0 +1,51 @@
+a:visited{
+    color: black;
+
+}
+
+body{
+    font-size: 20px;
+    background-color: lightslategray;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+ol{
+    font-weight: bold;
+}
+
+ul{
+    font-style: italic;
+    font-weight: 100;
+}
+
+h3{
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.mainbody{
+    background-color: rgb(216, 230, 235);
+
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+}
